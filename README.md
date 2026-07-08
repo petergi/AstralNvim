@@ -1,8 +1,7 @@
-# AstroNvim Template
+# AstralNvim is based on AstroNvim Template
+I know, I know, I'm original and far too clever for my own good. 
 
-**NOTE:** This is for AstroNvim v6+
-
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+**NOTE:** This is for AstroNvim v6+  [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## 🛠️ Installation
 
@@ -15,16 +14,11 @@ mv ~/.local/state/nvim ~/.local/state/nvim.bak
 mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 
-#### Create a new user repository from this template
-
-Press the "Use this template" button above to create a new repository to store your user configuration.
-
-You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
 
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/petergi/AstralNvim ~/.config/nvim
 ```
 
 #### Start Neovim
@@ -32,3 +26,6 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+
+#### Do Something
+I dunno, maybe use to write the next great novel or the next gagillion dollar software package. Oh and then go outside. Get some sun, you're looking kind of pastey!
