@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-AstroNvim configuration centers around `init.lua`, which bootstraps lazy-loading and routes into modules under `lua/`. The `lua/plugins/` directory holds feature-scoped specs (`pack-*.lua` for language packs, `<feature>.lua` for tools), while `lua/utils/` carries helpers reused across specs. User tweaks that are not plugin definitions belong in `lua/polish.lua`, and shared snippets live in `snippets/`. Runtime or diagnostic artifacts should stay inside `reports/` to keep the root tidy.
+AstralNvim configuration centers around `init.lua`, which bootstraps lazy-loading and routes into modules under `lua/`. The `lua/plugins/` directory holds feature-scoped specs (`pack-*.lua` for language packs, `<feature>.lua` for tools), while `lua/utils/` carries helpers reused across specs. User tweaks that are not plugin definitions belong in `lua/polish.lua`, and shared snippets live in `snippets/`. Runtime or diagnostic artifacts should stay inside `reports/` to keep the root tidy.
 
 ## Build, Test, and Development Commands
 
