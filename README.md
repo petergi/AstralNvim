@@ -1,4 +1,4 @@
-# AstralNvim is based on AstroNvim Template
+# AstralNvim is my tinkering of AstroNvim's Template
 I know, I know, I'm original and far too clever for my own good. 
 
 **NOTE:** This is for AstroNvim v6+  [AstroNvim](https://github.com/AstroNvim/AstroNvim)
